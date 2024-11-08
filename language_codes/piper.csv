@@ -1,0 +1,119 @@
+models,language_codes,iso_693_3
+csukuangfj/vits-piper-zh_CN-huayan-medium,zh_CN,zho
+csukuangfj/vits-piper-en_US-glados|1 speaker,en_US,en-us
+csukuangfj/vits-piper-en_GB-southern_english_male-medium|8 speakers,en_GB,eng
+csukuangfj/vits-piper-en_GB-southern_english_female-medium|6 speakers,en_GB,eng
+csukuangfj/vits-piper-en_US-bryce-medium|1 speaker,en_US,en-us
+csukuangfj/vits-piper-en_US-john-medium|1 speaker,en_US,en-us
+csukuangfj/vits-piper-en_US-norman-medium|1 speaker,en_US,en-us
+csukuangfj/vits-piper-en_GB-sweetbbak-amy|1 speaker,en_GB,eng
+csukuangfj/vits-piper-en_US-amy-low|1 speaker,en_US,en-us
+csukuangfj/vits-piper-en_US-amy-medium|1 speaker,en_US,en-us
+csukuangfj/vits-piper-en_US-arctic-medium|18 speakers,en_US,en-us
+csukuangfj/vits-piper-en_US-danny-low|1 speaker,en_US,en-us
+csukuangfj/vits-piper-en_US-hfc_male-medium|1 speaker,en_US,en-us
+csukuangfj/vits-piper-en_US-hfc_female-medium|1 speaker,en_US,en-us
+csukuangfj/vits-piper-en_US-joe-medium|1 speaker,en_US,en-us
+csukuangfj/vits-piper-en_US-kathleen-low|1 speaker,en_US,en-us
+csukuangfj/vits-piper-en_US-kusal-medium|1 speaker,en_US,en-us
+csukuangfj/vits-piper-en_US-l2arctic-medium|24 speakers,en_US,en-us
+csukuangfj/vits-piper-en_US-lessac-high|1 speaker,en_US,en-us
+csukuangfj/vits-piper-en_US-lessac-low|1 speaker,en_US,en-us
+csukuangfj/vits-piper-en_US-lessac-medium|1 speaker,en_US,en-us
+csukuangfj/vits-piper-en_US-libritts-high|904 speakers,en_US,en-us
+csukuangfj/vits-piper-en_US-libritts_r-medium|904 speakers,en_US,en-us
+csukuangfj/vits-piper-en_US-ljspeech-high|1 speaker,en_US,en-us
+csukuangfj/vits-piper-en_US-ljspeech-medium|1 speaker,en_US,en-us
+csukuangfj/vits-piper-en_US-ryan-high|1 speaker,en_US,en-us
+csukuangfj/vits-piper-en_US-ryan-low|1 speaker,en_US,en-us
+csukuangfj/vits-piper-en_US-ryan-medium|1 speaker,en_US,en-us
+csukuangfj/vits-piper-en_GB-alan-low|1 speaker,en_GB,eng
+csukuangfj/vits-piper-en_GB-alan-medium|1 speaker,en_GB,eng
+csukuangfj/vits-piper-en_GB-alan-medium,en_GB,eng
+csukuangfj/vits-piper-en_GB-cori-high|1 speaker,en_GB,eng
+csukuangfj/vits-piper-en_GB-cori-medium|1 speaker,en_GB,eng
+csukuangfj/vits-piper-en_GB-jenny_dioco-medium|1 speaker,en_GB,eng
+csukuangfj/vits-piper-en_GB-northern_english_male-medium|1 speaker,en_GB,eng
+csukuangfj/vits-piper-en_GB-semaine-medium|4 speakers,en_GB,eng
+csukuangfj/vits-piper-en_GB-southern_english_female-low|1 speaker,en_GB,eng
+csukuangfj/vits-piper-en_GB-vctk-medium|109 speakers,en_GB,eng
+csukuangfj/vits-piper-de_DE-eva_k-x_low|1 speaker,de_DE,deu
+csukuangfj/vits-piper-de_DE-karlsson-low|1 speaker,de_DE,deu
+csukuangfj/vits-piper-de_DE-kerstin-low|1 speaker,de_DE,deu
+csukuangfj/vits-piper-de_DE-pavoque-low|1 speaker,de_DE,deu
+csukuangfj/vits-piper-de_DE-ramona-low|1 speaker,de_DE,deu
+csukuangfj/vits-piper-de_DE-thorsten-low|1 speaker,de_DE,deu
+csukuangfj/vits-piper-de_DE-thorsten-medium|1 speaker,de_DE,deu
+csukuangfj/vits-piper-de_DE-thorsten-high|1 speaker,de_DE,deu
+csukuangfj/vits-piper-de_DE-thorsten_emotional-medium|8 speakers,de_DE,deu
+csukuangfj/vits-piper-es-glados-medium,es,spa
+csukuangfj/vits-piper-es_ES-carlfm-x_low,es_ES,spa
+csukuangfj/vits-piper-es_ES-davefx-medium,es_ES,spa
+csukuangfj/vits-piper-es_ES-sharvard-medium,es_ES,spa
+csukuangfj/vits-piper-es_MX-ald-medium,es_MX,spa-lat
+csukuangfj/vits-piper-es_MX-claude-high,es_MX,spa-lat
+csukuangfj/vits-piper-fr_FR-upmc-medium,fr_FR,fra
+csukuangfj/vits-piper-fr_FR-tom-medium|1 speaker,fr_FR,fra
+csukuangfj/vits-piper-fr_FR-siwis-low,fr_FR,fra
+csukuangfj/vits-piper-fr_FR-siwis-medium,fr_FR,fra
+csukuangfj/vits-piper-fr_FR-tjiho-model1,fr_FR,fra
+csukuangfj/vits-piper-fr_FR-tjiho-model2,fr_FR,fra
+csukuangfj/vits-piper-fr_FR-tjiho-model3,fr_FR,fra
+csukuangfj/vits-piper-uk_UA-lada-x_low,uk_UA,ukr
+csukuangfj/vits-piper-ru_RU-denis-medium,ru_RU,rus
+csukuangfj/vits-piper-ru_RU-dmitri-medium,ru_RU,rus
+csukuangfj/vits-piper-ru_RU-irina-medium,ru_RU,rus
+csukuangfj/vits-piper-ru_RU-ruslan-medium,ru_RU,rus
+csukuangfj/vits-piper-ar_JO-kareem-low,ar_JO,ara
+csukuangfj/vits-piper-ar_JO-kareem-medium,ar_JO,ara
+csukuangfj/vits-piper-ca_ES-upc_ona-x_low,ca_ES,cat
+csukuangfj/vits-piper-ca_ES-upc_ona-medium,ca_ES,cat
+csukuangfj/vits-piper-ca_ES-upc_pau-x_low,ca_ES,cat
+csukuangfj/vits-piper-cs_CZ-jirka-low,cs_CZ,ces
+csukuangfj/vits-piper-cs_CZ-jirka-medium,cs_CZ,ces
+csukuangfj/vits-piper-da_DK-talesyntese-medium,da_DK,dan
+csukuangfj/vits-piper-el_GR-rapunzelina-low,el_GR,ell
+csukuangfj/vits-piper-fi_FI-harri-low,fi_FI,fin
+csukuangfj/vits-piper-fi_FI-harri-medium,fi_FI,fin
+csukuangfj/vits-piper-hu_HU-anna-medium,hu_HU,hun
+csukuangfj/vits-piper-hu_HU-berta-medium,hu_HU,hun
+csukuangfj/vits-piper-hu_HU-imre-medium,hu_HU,hun
+csukuangfj/vits-piper-is_IS-bui-medium,is_IS,isl
+csukuangfj/vits-piper-is_IS-salka-medium,is_IS,isl
+csukuangfj/vits-piper-is_IS-steinn-medium,is_IS,isl
+csukuangfj/vits-piper-is_IS-ugla-medium,is_IS,isl
+csukuangfj/vits-piper-it_IT-riccardo-x_low,it_IT,ita
+csukuangfj/vits-piper-it_IT-paola-medium,it_IT,ita
+csukuangfj/vits-piper-ka_GE-natia-medium,ka_GE,kat
+csukuangfj/vits-piper-kk_KZ-iseke-x_low,kk_KZ,kaz
+csukuangfj/vits-piper-kk_KZ-issai-high,kk_KZ,kaz
+csukuangfj/vits-piper-kk_KZ-raya-x_low,kk_KZ,kaz
+csukuangfj/vits-piper-lb_LU-marylux-medium,lb_LU,ltz
+csukuangfj/vits-piper-ne_NP-google-medium,ne_NP,nep
+csukuangfj/vits-piper-ne_NP-google-x_low,ne_NP,nep
+csukuangfj/vits-piper-nl_BE-nathalie-medium,nl_BE,nld
+csukuangfj/vits-piper-nl_BE-nathalie-x_low,nl_BE,nld
+csukuangfj/vits-piper-nl_BE-rdh-medium,nl_BE,nld
+csukuangfj/vits-piper-nl_BE-rdh-x_low,nl_BE,nld
+csukuangfj/vits-piper-no_NO-talesyntese-medium,no_NO,nor
+csukuangfj/vits-piper-pl_PL-darkman-medium,pl_PL,pol
+csukuangfj/vits-piper-pl_PL-gosia-medium,pl_PL,pol
+csukuangfj/vits-piper-pl_PL-mc_speech-medium,pl_PL,pol
+csukuangfj/vits-piper-pt_BR-edresson-low,pt_BR,pt-br
+csukuangfj/vits-piper-pt_BR-faber-medium,pt_BR,pt-br
+csukuangfj/vits-piper-pt_PT-tugao-medium,pt_PT,por
+csukuangfj/vits-piper-ro_RO-mihai-medium,ro_RO,ron
+csukuangfj/vits-piper-sk_SK-lili-medium,sk_SK,slk
+csukuangfj/vits-piper-sr_RS-serbski_institut-medium,sr_RS,srp
+csukuangfj/vits-piper-sv_SE-nst-medium,sv_SE,swe
+csukuangfj/vits-piper-sw_CD-lanfrica-medium,sw_CD,swa
+csukuangfj/vits-piper-tr_TR-dfki-medium,tr_TR,tur
+csukuangfj/vits-piper-tr_TR-fahrettin-medium,tr_TR,tur
+csukuangfj/vits-piper-tr_TR-fettah-medium|1 speaker,tr_TR,tur
+csukuangfj/vits-piper-vi_VN-25hours_single-low,vi_VN,vie
+csukuangfj/vits-piper-vi_VN-vais1000-medium,vi_VN,vie
+csukuangfj/vits-piper-vi_VN-vivos-x_low,vi_VN,vie
+csukuangfj/vits-piper-sl_SI-artur-medium,sl_SI,slv
+csukuangfj/vits-piper-fa_IR-amir-medium,fa_IR,fas
+csukuangfj/vits-piper-fa_IR-gyro-medium,fa_IR,fas
+csukuangfj/vits-piper-cy_GB-gwryw_gogleddol-medium|1 speaker,cy_GB,cym

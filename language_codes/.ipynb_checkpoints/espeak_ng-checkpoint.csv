@@ -1,0 +1,113 @@
+iso_639_5,bcp_47,language_family,language_name,accent_dialect,iso_693_3
+gmw,af,West Germanic,Afrikaans,,afr
+ine,sq,Indo-European,Albanian,,sqi
+sem,am,Semitic,Amharic,,amh
+sem,ar,Semitic,"Arabic<sup>\[3,7\]</sup>",,ara
+roa,an,Romance,Aragonese,,arg
+ine,hy,Indo-European,Armenian,East Armenian,hye
+ine,hyw,Indo-European,Armenian,West Armenian,hyw
+inc,as,Indic,Assamese,,asm
+trk,az,Turkic,Azerbaijani,,aze
+trk,ba,Turkic,Bashkir,,bak
+trk,cu,Turkic,Chuvash,,chu
+,eu,,Basque,,eus
+zle,be,East Slavic,Belarusian,,bel
+inc,bn,Indic,Bengali,,ben
+inc,bpy,Indic,Bishnupriya Manipuri,,bpy
+zls,bs,South Slavic,"Bosnian<sup>\[1,2\]</sup>",,bos
+zls,bg,South Slavic,Bulgarian,,bul
+sit,my,Sino-Tibetan,Burmese,,mya
+roa,ca,Romance,Catalan,,cat
+iro,chr,Iroquoian,"Cherokee <sup>\[1,6\]</sup>",Western/C.E.D.,chr
+sit,yue,Sino-Tibetan,Chinese,Cantonese,yue
+sit,hak,Sino-Tibetan,Chinese,Hakka,hak
+map,haw,Austronesian,Hawaiian,,haw
+sit,cmn,Sino-Tibetan,Chinese,Mandarin,cmn
+zls,hr,South Slavic,"Croatian<sup>\[1,2\]</sup>",,hrv
+zlw,cs,West Slavic,Czech,,ces
+gmq,da,North Germanic,Danish,,dan
+gmw,nl,West Germanic,Dutch,,nld
+gmw,en-us,West Germanic,English,American,en-us
+gmw,en,West Germanic,English,British,eng
+gmw,en-gb-scotland,West Germanic,English,Scottish,en-sc
+urj,et,Uralic,Estonian,,est
+ira,fa,Iranian,Persian,,fas
+urj,fi,Uralic,Finnish,,fin
+roa,fr-be,Romance,French,Belgium,fr-be
+roa,fr,Romance,French,France,fra
+roa,fr-ch,Romance,French,Switzerland,fr-sw
+cel,ga,Celtic,Gaelic,Irish,gle
+cel,gd,Celtic,Gaelic,Scottish,gla
+ccs,ka,South Caucasian,Georgian,,kat
+gmw,de,West Germanic,German,,deu
+grk,grc,Greek,Greek,Ancient,grc
+grk,el,Greek,Greek,Modern,ell
+esx,kl,Eskimo-Aleut,Greenlandic,,kal
+sai,gn,South American Indian,Guarani,,grn
+inc,gu,Indic,Gujarati,,guj
+roa,ht,Romance,Hatian Creole,,hat
+sem,he,Semitic,Hebrew,,heb
+inc,hi,Indic,Hindi,,hin
+urj,hu,Uralic,Hungarian,,hun
+gmq,is,North Germanic,Icelandic,,isl
+poz,id,Malayo-Polynesian,Indonesian,,ind
+roa,it,Romance,Italian,,ita
+jpx,ja,Japanese,Japanese<sup>\[4\]</sup>,,jpn
+dra,kn,Dravidian,Kannada,,kan
+inc,kok,Indic,Konkani,,kok
+,ko,,Korean,,kor
+ira,ku,Iranian,Kurdish,,kur
+trk,kk,Turkic,Kazakh,,kaz
+trk,ky,Turkic,Kyrgyz,,kir
+itc,la,Italic,Latin,,lat
+gmw,lb,West Germanic,Luxembourgish,,ltz
+bat,ltg,Baltic,Latgalian,,ltg
+bat,lv,Baltic,Latvian,,lav
+bat,lt,Baltic,Lithuanian,,lit
+poz,mi,Malayo-Polynesian,Māori,,mri
+zls,mk,South Slavic,"Macedonian<sup>\[1,2\]</sup>",,mkd
+poz,ms,Malayo-Polynesian,Malay,,msa
+dra,ml,Dravidian,Malayalam,,mal
+sem,mt,Semitic,Maltese,,mlt
+inc,mr,Indic,Marathi,,mar
+azc,nci,Uto-Aztecan,Nahuatl,Classical,nci
+inc,ne,Indic,Nepali,,nep
+gmq,nb,North Germanic,Norwegian Bokmål,,nob
+trk,nog,Turkic,Nogai,,nog
+inc,or,Indic,Oriya,,ori
+cus,om,Cushitic,Oromo,,orm
+roa,pap,Romance,Papiamento,,pap
+zlw,pl,West Slavic,Polish,,pol
+roa,pt-br,Romance,Portuguese,Brazillian,pt-br
+,qu,,Quechua,,que
+myn,quc,Mayan,K'iche',,quc
+roa,pt,Romance,Portuguese,Portugal,por
+inc,pa,Indic,Punjabi,,pan
+roa,ro,Romance,Romanian,,ron
+zle,ru,East Slavic,Russian,,rus
+zle,uk,East Slavic,Ukrainian,,ukr
+zls,sr,South Slavic,"Serbian<sup>\[1,2\]</sup>",,srp
+bnt,tn,Bantu,Setswana,,tsn
+inc,sd,Indic,Sindhi,,snd
+tai,shn,Tai,Shan (Tai Yai),,shn
+inc,si,Indic,Sinhala,,sin
+zlw,sk,West Slavic,Slovak,,slk
+zls,sl,South Slavic,Slovenian,,slv
+urj,smj,Uralic,Lule Saami,,smj
+roa,es,Romance,Spanish,Spain,spa
+roa,es-419,Romance,Spanish,Latin American,spa-lat
+bnt,sw,Bantu,Swahili,,swa
+gmq,sv,North Germanic,Swedish,,swe
+dra,ta,Dravidian,Tamil,,tam
+tai,th,Tai,Thai,,tha
+trk,tk,Turkic,Turkmen<sup>\[1\]</sup>,,tuk
+trk,tt,Turkic,Tatar,,tat
+dra,te,Dravidian,Telugu,,tel
+trk,tr,Turkic,Turkish,,tur
+trk,ug,Turkic,"Uyghur<sup>\[1,3\]</sup>",,uig
+inc,ur,Indic,Urdu,,urd
+trk,uz,Turkic,"Uzbek<sup>\[1,2\]</sup>",,uzb
+aav,vi-vn-x-central,Austroasiatic,Vietnamese,Central Vietnam,vi-ctr
+aav,vi,Austroasiatic,Vietnamese,Northern Vietnam,vie
+aav,vi-vn-x-south,Austroasiatic,Vietnamese,Southern Vietnam,vi-so
+cel,cy,Celtic,Welsh,,cym
