@@ -32,7 +32,7 @@ In addition to the list of systems, this repository provides a few helpful tools
 - A crosswalk between the language codes of different open TTS systems so that you can see which systems/models are available for a given language (`model_lookups_by_iso.csv`)
 - A high-level map of support by language (`model_support.csv`)
 
-This repository is designed to process data in support of the HuggingFace Open TTS demo page: [https://huggingface.co/spaces/khof312/tts_mockingbird](https://huggingface.co/spaces/OOI-FrontierTech/tts_mockingbird)
+This repository is designed to process data in support of the HuggingFace Open TTS demo page: [https://huggingface.co/spaces/OOI-FrontierTech/tts_mockingbird](https://huggingface.co/spaces/OOI-FrontierTech/tts_mockingbird)
 
 
 # To Do
