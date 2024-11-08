@@ -2,11 +2,11 @@
 A repository with information about open multilingual TTS systems and how to use them.
 
 Currently, systems covered are:
-- IMS Toucan
-- Meta MMS
-- espeak NG
-- coqui
-- piper
+- [**IMS Toucan**]() | [github]((https://github.com/DigitalPhonetics/IMS-Toucan) | [demo]() | [languages]() : Support for 7,233 languages
+- [**Meta MMS**)](https://ai.meta.com/blog/multilingual-model-speech-recognition/)  | [github]() | [demo]() | [languages](https://dl.fbaipublicfiles.com/mms/misc/language_coverage_mms.html) | [paper](https://arxiv.org/abs/2305.13516) | [doc](https://huggingface.co/docs/transformers/model_doc/mms) | [paper]() : Support for 1,108 languages; also capable of Automatic Speech Recognition (ASR) and language ID (LID) for over 4,000 languages
+- [**coqui**](https://docs.coqui.ai/en/latest/#)  | [github](https://github.com/coqui-ai/TTS) | [demo](https://huggingface.co/spaces/coqui/CoquiTTS/blob/main/app.py) | [languages](https://github.com/coqui-ai/TTS/blob/dev/TTS/.models.json) : Support for 37 languages where users can train and add their own models; also supports some multilingual models
+- **espeak NG**  | [github](https://github.com/espeak-ng/espeak-ng/) | [languages](https://github.com/espeak-ng/espeak-ng/blob/master/docs/languages.md) : Support for 112 languages
+- **piper**  | [github](https://github.com/rhasspy/piper) | [demo](https://huggingface.co/spaces/k2-fsa/text-to-speech) | [languages](https://github.com/rhasspy/piper/blob/master/VOICES.md) : Support for 37 languages with multiple variants per language
   
 ## Overview
 In addition to the list of systems, this repository provides a few helpful tools:
@@ -22,4 +22,5 @@ This repository is designed to process data in support of the HuggingFace Open T
 > In progress: 
 > - Simple python scripts for running each TTS in a given language
 > - Support for:
->  - African voices, Mimic, Meta Seamless M4T
+>  - [African voices](https://github.com/neulab/AfricanVoices), Mimic, Meta Seamless M4T
+>  - Handling coqui TTS models with multiple languages
